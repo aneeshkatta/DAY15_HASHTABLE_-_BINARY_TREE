@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HashTable_uc1/1.0.0": {
+        "runtime": {
+          "HashTable_uc1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTable_uc1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
